@@ -50,7 +50,7 @@ group :development, :test do
 end
 
 group :test do
-  gem 'capybara-webkit'
+  
 end
 
 group :development do
